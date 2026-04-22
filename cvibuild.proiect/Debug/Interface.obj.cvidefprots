@@ -1,0 +1,60 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="d:\APD\proiect\proiect\Interface.c:42:5"
+
+[OnAcqPanel]
+Class="Function"
+Prototype="int OnAcqPanel(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\APD\proiect\proiect\Interface.c:55:17"
+
+[PlotCurrentInterval]
+Class="Function"
+Prototype="void PlotCurrentInterval(int panel);"
+SourceLocation="d:\APD\proiect\proiect\Interface.c:89:6"
+
+[OnLoadWave]
+Class="Function"
+Prototype="int OnLoadWave(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\APD\proiect\proiect\Interface.c:146:17"
+
+[OnButtonApply]
+Class="Function"
+Prototype="int OnButtonApply(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\APD\proiect\proiect\Interface.c:272:17"
+
+[OnFilterChange]
+Class="Function"
+Prototype="int OnFilterChange(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\APD\proiect\proiect\Interface.c:359:17"
+
+[OnButtonPrev]
+Class="Function"
+Prototype="int OnButtonPrev(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\APD\proiect\proiect\Interface.c:384:17"
+
+[OnButtonNext]
+Class="Function"
+Prototype="int OnButtonNext(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\APD\proiect\proiect\Interface.c:400:17"
+
+[OnSwitchPanelCB]
+Class="Function"
+Prototype="int OnSwitchPanelCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\APD\proiect\proiect\Interface.c:416:17"
+
+[OnTimer]
+Class="Function"
+Prototype="int OnTimer(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\APD\proiect\proiect\Interface.c:445:17"
+
+[OnFreqPanel]
+Class="Function"
+Prototype="int OnFreqPanel(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\APD\proiect\proiect\Interface.c:519:17"
+
+[OnButtonSave]
+Class="Function"
+Prototype="int OnButtonSave(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\APD\proiect\proiect\Interface.c:537:17"
+

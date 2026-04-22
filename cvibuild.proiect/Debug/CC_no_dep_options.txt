@@ -1,0 +1,1 @@
+-force-include-file "Frequency.h";"d:\APD\proiect\proiect\Frequency.h" -force-include-file "Interface.c";"d:\APD\proiect\proiect\Interface.c" 
